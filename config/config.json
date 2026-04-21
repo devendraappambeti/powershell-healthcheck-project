@@ -1,0 +1,6 @@
+{ 
+    "cpuThreshold": 80, 
+    "memoryThreshold": 80, 
+    "diskThreshold": 80, 
+    "services": ["Spooler", "W32Time"]
+ }
