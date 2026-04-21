@@ -5,7 +5,7 @@ pipeline {
 
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/your-repo/powershell-healthcheck-project.git'
+                git 'https://github.com/devendraappambeti/powershell-healthcheck-project.git'
             }
         }
 
